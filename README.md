@@ -104,4 +104,4 @@ OKF Memory is an open, community-driven standard. We welcome contributions, bug 
 
 - 💬 **Discussions & Issues**: Open an issue in [`okf-agent-memory`](https://github.com/okf-memory/okf-agent-memory/issues).
 - 🌐 **Website**: [okf-memory.dev](https://okf-memory.dev)
-- 📬 **Security & Contact**: `hello@okf-memory.dev`
+- 📬 **Security & Contact**: `mail@okf-memory.dev`
