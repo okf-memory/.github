@@ -5,7 +5,7 @@
 ### Deterministic, Sub-300µs Persistent Project Memory for AI Coding Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![OKF Version](https://img.shields.io/badge/Spec-OKF_v0.2-purple.svg?style=flat-square)](https://okf-memory.dev)
+[![OKF Version](https://img.shields.io/badge/Spec-OKF_v0.3-purple.svg?style=flat-square)](https://okf-memory.dev)
 [![Language: Go](https://img.shields.io/badge/Go-1.22+-00ADD8.svg?style=flat-square&logo=go)](https://go.dev)
 [![Search Latency](https://img.shields.io/badge/Search_Latency-<300µs-brightgreen.svg?style=flat-square)](#-key-benchmarks)
 [![Dependencies](https://img.shields.io/badge/External_Dependencies-0-success.svg?style=flat-square)](#)
@@ -92,7 +92,7 @@ OKF Memory works out of the box with any tool or agent supporting MCP (Model Con
 
 1. **Zero External Dependencies**: Pure Go. No Python runtime, no Node.js daemon, no PostgreSQL, no vector store required.
 2. **Git is the Database**: All knowledge items are human-readable Markdown files with structured YAML frontmatter living directly in your repository.
-3. **Open Knowledge Format (OKF v0.2)**: Strict schema conformance, bi-directional relationship graphs, provenance tracking (`generated` vs `verified`), and drift detection.
+3. **Open Knowledge Format (OKF v0.3)**: Strict schema conformance, bi-directional relationship graphs, provenance tracking (`generated` vs `verified`), and drift detection.
 4. **Local-First & Privacy by Design**: All core memory operations run entirely on your local machine with zero external telemetry.
 
 ---
